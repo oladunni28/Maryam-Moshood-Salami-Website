@@ -82,7 +82,7 @@ nav ul li a:hover {
 
 .contact {
   position: absolute;
-  top: 50%;
+  top: 60%;
   left: 8%;
   transform: translateY(-50%);
 }
